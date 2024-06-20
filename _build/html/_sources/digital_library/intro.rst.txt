@@ -1,0 +1,18 @@
+
+Read a book
+==============
+
+Download a book
+================
+
+Bookmark a book
+================
+
+Put a book on sale
+====================
+
+Register a book
+================
+
+Register a summary of a book
+==============================

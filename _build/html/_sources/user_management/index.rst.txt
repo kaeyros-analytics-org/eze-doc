@@ -1,0 +1,15 @@
+
+User Sign-up / Business owner
+==============================
+
+User Login functionality
+=========================
+
+User update profile
+====================
+
+User update password
+=====================
+
+User forgot password
+=====================

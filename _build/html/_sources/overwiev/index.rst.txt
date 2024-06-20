@@ -1,0 +1,5 @@
+Welcome to EZE Online Search Platform's documentation!
+======================================================
+Need to build a web application which can facilitate academic research, academic studies, organize conferences and finance your studies. Depending on their profile, users can access specific services. In other words, depending on their profile, users can learn, publish their books, download books, apply for funding, etc.
+
+Users can chat, post articles and share images with other users, independently of their profile. He can be followed by other users and can follow other users too. He can like other users' posts.
